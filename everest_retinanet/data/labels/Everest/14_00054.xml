@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>14_00054.jpg</filename>
+	<path>D:\CS599\imgs\14_00054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambiguous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>367</ymin>
+			<xmax>653</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

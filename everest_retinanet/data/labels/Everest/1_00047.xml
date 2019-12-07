@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>1_00047.jpg</filename>
+	<path>D:\CS599\imgs\1_00047.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>942</xmin>
+			<ymin>528</ymin>
+			<xmax>964</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>

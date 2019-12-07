@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>10_00121.jpg</filename>
+	<path>/Users/everestl/Desktop/CS599/imgs/10_00121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>350</ymin>
+			<xmax>674</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

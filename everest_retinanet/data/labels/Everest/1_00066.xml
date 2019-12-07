@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>1_00066.jpg</filename>
+	<path>C:\Users\Everest Law\Desktop\cs-images\imgs\1_00066.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>counter_terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>434</ymin>
+			<xmax>562</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>counter_terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>438</ymin>
+			<xmax>615</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

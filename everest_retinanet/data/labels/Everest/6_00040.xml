@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>6_00040.jpg</filename>
+	<path>/Volumes/NO NAME/CS599/CSGO_imgs/imgs/6_00040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>140</ymin>
+			<xmax>731</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>148</ymin>
+			<xmax>1102</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

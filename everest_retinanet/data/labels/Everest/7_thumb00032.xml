@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>7_thumb00032.jpg</filename>
+	<path>/Volumes/NO NAME/CS599/CSGO_imgs/imgs/7_thumb00032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>counter_terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>360</ymin>
+			<xmax>621</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>counter_terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1050</xmin>
+			<ymin>344</ymin>
+			<xmax>1100</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>13_00154.jpg</filename>
+	<path>/Volumes/HardDisk/CS599/imgs/13_00154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>counter_terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>12</ymin>
+			<xmax>1132</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

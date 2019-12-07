@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>vlc_extracted05351.jpg</filename>
+	<path>/Volumes/HardDisk/CS599/imgs/vlc_extracted05351.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terrorist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>237</ymin>
+			<xmax>587</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

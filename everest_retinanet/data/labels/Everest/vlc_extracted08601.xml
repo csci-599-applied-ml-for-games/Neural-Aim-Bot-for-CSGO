@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>vlc_extracted08601.jpg</filename>
+	<path>/Volumes/HardDisk/CS599/imgs/vlc_extracted08601.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambiguous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>419</ymin>
+			<xmax>496</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
