@@ -1,0 +1,12 @@
+# Training
+retinanet-train --weights=weights/resnet50_coco_best_v2.1.0.h5 \
+--freeze-backbone --tensorboard-dir logs/resnet50 --snapshot-path snapshots/ \
+--epochs 30 --steps 2126 csv train.csv labels.txt
+
+retinanet-train --snapshot snapshots/resnet50_csv_25.h5 --freeze-backbone --tensorboard-dir logs/resnet50 --snapshot-path snapshots/ --epochs 10 --steps 1074 csv train.csv labels.txt
+
+retinanet-train --weights=snapshots/resnet50_csv_25.h5 --freeze-backbone --tensorboard-dir logs --snapshot-path snapshots/ --epochs 15 --steps 1040 csv train.csv labels.txt
+
+# Evaluate and measure mAP
+retinanet-evaluate --convert-model --backbone=resnet50 \
+--iou-threshold=0.5 --score-threshold=0.5 csv everest_train.csv labels.txt snapshots/resnet50/resnet50_csv_05.h5
